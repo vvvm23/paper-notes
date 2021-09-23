@@ -1,11 +1,12 @@
-# (Deep Learning) paper notes
+# (Deep Learning) Paper Notes
 
-A collection of cool papers I have read, a summary of them, and the TL;DR.
+A collection of cool papers I have read, a summary of them, the key points and
+some of my own personal notes.
 
 > If on vim, use `gF` to follow a link in the same split or `gf` to follow in a
 > new split.
 
-Standard format should follow: `<name> [[notes](note path)][[paper](arXiv link)][[other stuff](link)]`
+> Standard format should follow: `<name> [[notes](note path)][[paper](arXiv link)][[other stuff](link)]`
 
 ## September, 2021
 
