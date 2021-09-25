@@ -1,5 +1,5 @@
 # Score-based Generative Modeling in Latent Space
-> Arash Vahdat, Karsten Kreis, Jan Kautz
+> Arash Vahdat, Karsten Kreis, Jan Kautz - Nvidia
 
 ## Summary
 This paper proposes training score-based generative models (SGMs) in a latent
@@ -53,7 +53,7 @@ architecture](figures/score-based-in-latent-space/architecture.png)
 
 - Just looking at the maths, the training process is not too clear. However,
   Appendix G.6 makes all training algorithms quite explicit. Apparently, method
-  (3) consumes more memory than (2), but is often faster. I believe (1)
+  Alg(3) consumes more memory than Alg(2), but is often faster. I believe Alg(1)
   corresponds to not dropping the weight for the SGM prior, so use this when
   wanting to preserve likelihood.
 

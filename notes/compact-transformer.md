@@ -30,7 +30,7 @@ of small datasets, with a greatly reduced parameter count (approx 0.28 million).
 - SeqPool takes the (N x L x D) output of the transformer encoder and maps it to
   (N x D) which can then be linearly classified on. This is simply:
 
-  $$ z = x_L^' x_L = softmax(g(x_L)^T)$$
+  $$ z = x_L^{'} x_L = softmax(g(x_L)^T)$$
 
 - where $g$ is a mapping from the embedding dimension $d$ to a single value.
   This is essentially importance weighting across the sequence of latent
