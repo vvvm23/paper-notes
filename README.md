@@ -8,6 +8,8 @@ some of my own personal notes.
 
 > Standard format should follow: `<name> [[notes](note path)][[paper](arXiv link)][[other stuff](link)]`
 
+Follow [[this]](read.md) link for the list of papers to read.
+
 ## September, 2021
 
 - Structured Denoising Diffusion Models in Discrete State-Spaces
