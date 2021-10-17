@@ -8,7 +8,11 @@ some of my own personal notes.
 
 > Standard format should follow: `<name> [[notes](note path)][[paper](arXiv link)][[other stuff](link)]`
 
-Follow [[this]](read.md) link for the list of papers to read.
+Follow [[this]](reading-list.md) link for the list of papers to read.
+
+## October, 2021
+- VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models
+  [[notes](notes/vaebm.md)][[paper](https://arxiv.org/abs/2010.00654)]
 
 ## September, 2021
 
