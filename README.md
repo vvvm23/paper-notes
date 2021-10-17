@@ -11,6 +11,9 @@ some of my own personal notes.
 Follow [[this]](reading-list.md) link for the list of papers to read.
 
 ## October, 2021
+- Autoregressive Diffusion Models
+  [[notes](notes/ardm.md)][[paper](https://arxiv.org/abs/2110.02037)]
+
 - VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models
   [[notes](notes/vaebm.md)][[paper](https://arxiv.org/abs/2010.00654)]
 
