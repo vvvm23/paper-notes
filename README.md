@@ -11,6 +11,9 @@ some of my own personal notes.
 Follow [[this]](reading-list.md) link for the list of papers to read.
 
 ## October, 2021
+- SoundStream: An End-to-End Neural Audio Codec
+  [[notes](notes/soundstream.md)][[paper](https://arxiv.org/abs/2107.03312)]
+
 - Autoregressive Diffusion Models
   [[notes](notes/ardm.md)][[paper](https://arxiv.org/abs/2110.02037)]
 
