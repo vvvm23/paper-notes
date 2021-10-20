@@ -11,6 +11,9 @@ some of my own personal notes.
 Follow [[this]](reading-list.md) link for the list of papers to read.
 
 ## October, 2021
+- WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis
+  [[notes](notes/wavegrad2.md)][[paper](https://arxiv.org/abs/2106.09660)]
+
 - SoundStream: An End-to-End Neural Audio Codec
   [[notes](notes/soundstream.md)][[paper](https://arxiv.org/abs/2107.03312)]
 
