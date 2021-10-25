@@ -11,6 +11,9 @@ some of my own personal notes.
 Follow [[this]](reading-list.md) link for the list of papers to read.
 
 ## October, 2021
+- Vector-quantized Image Modeling with Improved VQGAN
+  [[notes](notes/improved-vqgan.md)][[paper](https://openreview.net/forum?id=pfNyExj7z2)]
+
 - WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis
   [[notes](notes/wavegrad2.md)][[paper](https://arxiv.org/abs/2106.09660)]
 
